@@ -1,21 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:background="@drawable/roseto"
+    android:orientation="vertical">
 
     <TextView
+        android:id="@+id/text_message"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="@android:dimen/app_icon_size"
+        android:layout_gravity="center"
+        android:text="@string/text_message" />
+
+    <TextView
+        android:id="@+id/welcome_message"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:textColor="@color/colorAccent"/>
+        android:layout_gravity="center"
+        android:layout_marginTop="@android:dimen/app_icon_size"
+        android:text="@string/welcome_message"
+        android:textStyle="bold"/>
 
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
 
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="@android:dimen/app_icon_size"
+            android:background="@drawable/italianflag" />
+
+        <Button
+            android:id="@+id/english_flag"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="@android:dimen/app_icon_size"
+            android:background="@drawable/englishflag"
+            android:onClick="visita"/>
+
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="@android:dimen/app_icon_size"
+            android:background="@drawable/frenchflag"
+            android:onClick="visita"/>
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="@android:dimen/app_icon_size"
+            android:background="@drawable/germanyflag"
+            android:onClick="visita"/>
+
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="@android:dimen/app_icon_size"
+            android:background="@drawable/spainflag"
+            android:onClick="visita"/>
+    </LinearLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center"
+        android:layout_marginTop="@android:dimen/app_icon_size"
+        android:layout_marginLeft="@android:dimen/app_icon_size"
+        android:layout_marginRight="@android:dimen/app_icon_size"
+        android:background="@color/colorAccent"
+        android:onClick="visita"
+        android:text="@string/button_start" />
+</LinearLayout>
