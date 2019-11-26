@@ -21,6 +21,6 @@ public class main extends AppCompatActivity {
     }
 
     public void visita(View view) {
-        Intent intent = new Intent(this, visita.class);
+        Intent intent = new Intent(this, Visita.class);
         startActivity(intent);
     } }
