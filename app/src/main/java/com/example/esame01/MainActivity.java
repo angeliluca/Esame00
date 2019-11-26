@@ -1,3 +1,7 @@
+/*
+ Area commenti, vi chiedo di scrivere qui cose eventualmente utili agli altri.
+ prova
+ */
 package com.example.esame01;
 
 import androidx.appcompat.app.AppCompatActivity;
