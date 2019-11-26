@@ -6,14 +6,15 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class visita extends AppCompatActivity {
+public class cartina extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_visita);
+        setContentView(R.layout.activity_cartina);
     }
-    public void open_cartina(View view) {
-        Intent intent = new Intent(this,cartina.class);
+
+    public void open_exit(View view) {
+        Intent intent = new Intent(this,exit.class);
         startActivity(intent); }
 }

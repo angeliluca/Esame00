@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">RosetoPersolino</string>
+    <string name="visitor">Besucher</string>
+    <string name="technical">Technisch</string>
+    <string name="map">Karte des rosengartens</string>
+    <string name="exit_button">Wenn sie lhren besuch beendet haben, klicken sie hier</string>
+    <string name="uscita">VIELEN DANK FUR</string>
+    <string name="uscita2">LHREN BESUCH</string>
+
+</resources>

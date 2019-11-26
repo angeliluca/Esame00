@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RosetoPersolino</string>
+    <string name="visitor">Visitor</string>
+    <string name="technical">Techical</string>
+    <string name="map">Map of the rose garden</string>
+    <string name="exit_button">If you have finished your visit click here</string>
+    <string name="uscita">THANK YOU FOR</string>
+    <string name="uscita2">YOUR VISIT</string>
+
+
+
+</resources>
