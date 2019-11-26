@@ -14,6 +14,6 @@ public class Visita extends AppCompatActivity {
         setContentView(R.layout.activity_visita);
     }
     public void open_cartina(View view) {
-        Intent intent = new Intent(this,cartina.class);
+        Intent intent = new Intent(this,Cartina.class);
         startActivity(intent); }
 }

@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class cartina extends AppCompatActivity {
+public class Cartina extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -15,6 +15,6 @@ public class cartina extends AppCompatActivity {
     }
 
     public void open_exit(View view) {
-        Intent intent = new Intent(this,exit.class);
+        Intent intent = new Intent(this,Exit.class);
         startActivity(intent); }
 }

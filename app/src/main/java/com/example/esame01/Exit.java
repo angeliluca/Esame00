@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class exit extends AppCompatActivity {
+public class Exit extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
