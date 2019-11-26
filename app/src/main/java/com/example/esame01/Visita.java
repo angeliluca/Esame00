@@ -1,4 +1,4 @@
-package com.example.esame01.;
+package com.example.esame01;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class visita extends AppCompatActivity {
+public class Visita extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

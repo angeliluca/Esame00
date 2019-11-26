@@ -1,4 +1,4 @@
-package com.example.esame01.;
+package com.example.esame01;
 
 import androidx.appcompat.app.AppCompatActivity;
 

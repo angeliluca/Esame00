@@ -2,7 +2,7 @@
  Area commenti, vi chiedo di scrivere qui cose eventualmente utili agli altri.
 
  */
-package com.example.esame01.;
+package com.example.esame01;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -21,6 +21,6 @@ public class main extends AppCompatActivity {
     }
 
     public void visita(View view) {
-        Intent intent = new Intent(this, Visita.class);
+        Intent intent = new Intent(this, visita.class);
         startActivity(intent);
     } }
