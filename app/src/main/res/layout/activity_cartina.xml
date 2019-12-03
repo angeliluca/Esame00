@@ -16,6 +16,48 @@
         android:textSize="5mm"
         android:layout_centerHorizontal="true"/>
 
+
+    <Button
+        android:id="@+id/Rosa_Centifolia"
+        android:layout_width="123dp"
+        android:layout_height="85dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/rosacentifolia"
+        android:text="ROSA CENTIFOLIA"
+        android:textColor="@color/white"
+        android:layout_below="@+id/map"/>
+
+    <Button
+        android:id="@+id/Rosa_Tea"
+        android:layout_width="123dp"
+        android:layout_height="85dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/rosatea"
+        android:text="ROSA TEA"
+        android:textColor="@color/cadetblue"
+        android:layout_below="@+id/Rosa_Centifolia"/>
+
+    <Button
+        android:id="@+id/Rosa_Lincoln"
+        android:layout_width="123dp"
+        android:layout_height="85dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/rosalincoln"
+        android:text="ROSA MISTER LINCOLN"
+        android:textColor="@color/black"
+        android:layout_below="@+id/Rosa_Tea"/>
+
+    <Button
+        android:id="@+id/Rosa_Gallica_Versicolor"
+        android:layout_width="123dp"
+        android:layout_height="85dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/gallica"
+        android:text="ROSA GALLICA VERSICOLOR"
+        android:textColor="@color/white"
+        android:layout_below="@+id/Rosa_Lincoln"/>
+
+
     <Button
         android:id="@+id/exit_button"
         android:layout_width="wrap_content"
@@ -24,9 +66,9 @@
         android:textStyle="bold"
         android:text="@string/exit_button"
         android:background="@color/colorPrimaryDark"
-        android:layout_below="@+id/map"
+        android:layout_below="@+id/Rosa_Gallica_Versicolor"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="60mm"
+        android:layout_marginTop="40mm"
         android:onClick="open_exit"/>
 
 
