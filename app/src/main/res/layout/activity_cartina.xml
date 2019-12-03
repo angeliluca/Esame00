@@ -70,7 +70,7 @@
         android:background="@color/colorPrimaryDark"
         android:layout_below="@+id/Rosa_Gallica_Versicolor"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="20mm"
+        android:layout_marginTop="10mm"
         android:onClick="open_exit"/>
 
 

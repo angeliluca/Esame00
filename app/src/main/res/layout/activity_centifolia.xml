@@ -13,7 +13,8 @@
         android:textStyle="bold"
         android:textSize="5mm"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="3mm"/>
+        android:layout_marginTop="3mm"
+        android:textColor="@color/lightcoral"/>
 
     <TextView
         android:id="@+id/rose1"
@@ -23,6 +24,15 @@
         android:layout_below="@+id/titolo"
         android:textSize="3mm"
         android:layout_marginTop="5mm"/>
+
+    <ImageView
+        android:id="@+id/Rosa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/rosacentifolia"
+        android:layout_below="@+id/rose1"
+        android:layout_marginTop="5mm"
+        android:layout_centerHorizontal="true"/>
 
 
 

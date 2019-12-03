@@ -13,7 +13,10 @@
         android:layout_width="wrap_content"
         android:layout_marginTop="@android:dimen/app_icon_size"
         android:layout_gravity="center"
-        android:text="ROSETO DEL PERSOLINO" />
+        android:text="ROSETO DEL PERSOLINO"
+        android:textColor="@color/colorAccent"
+        android:textStyle="bold"
+        android:textSize="4mm"/>
 
     <TextView
         android:id="@+id/welcome_message"

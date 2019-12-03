@@ -13,7 +13,7 @@ public class Visita extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_visita);
     }
-    public void open_cartina(View view) {
-        Intent intent = new Intent(this,Cartina.class);
+    public void open_mappa(View view) {
+        Intent intent = new Intent(this,mappa.class);
         startActivity(intent); }
 }
