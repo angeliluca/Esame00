@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">RosetoPersolino</string>
-    <string name="text_message">Roseto del Persolino</string>
-    <string name="welcome_message">Bienvenu</string>
-    <string name="button_start">Commencez votre visite</string>
-    <string name="button_visitor">Visiteur</string>
-    <string name="button_technical">Technique</string>
+    <string name="visitor">Visiteur</string>
+    <string name="technical">Technique</string>
     <string name="map">Carte de la roseraie</string>
-    <string name="button_exit">Si vous avez terminé votre visite cliquez ici</string>
+
 </resources>
