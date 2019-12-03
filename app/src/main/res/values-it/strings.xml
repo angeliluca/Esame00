@@ -7,6 +7,10 @@
     <string name="exit_button">Se hai finito la tua visita clicca qui</string>
     <string name="uscita">GRAZIE PER LA</string>
     <string name="uscita2">TUA VISITA</string>
+    <string name="rosa1">ROSA CENTIFOLIA</string>
+    <string name="descrizione1"> La rosa Centifolia è detta rosa dei pittori perchè spesso raffigurata nelle tele degli artisti fiamminghi. Sviluppata in Olanda, i suoi petali sono di un colore rosa brillante, con foglie ispide e verdi e moltissime spine sottili. </string>
+    <string name="rosa2">ROSA TEA</string>
+    <string name="descrizione2">La rosa tea è chiamata così perchè caratterizzata da un profumo intenso che ricorda il thè fresco. Originaria della Cina viaggiò su navi adibite al trasporto di thè fino all'Europa. Caratterizzata da petali color giallo vivace, può raggiungere un'altezza di 2 metri. Produce dei frutti che prendono il nome di acheni leggermente coperti da peluria. Riesce a resistere sia ad alte che basse temperature ma necessita di molta luce per vivere. </string>
 
 
 </resources>

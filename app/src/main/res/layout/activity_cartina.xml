@@ -25,7 +25,8 @@
         android:background="@drawable/rosacentifolia"
         android:text="ROSA CENTIFOLIA"
         android:textColor="@color/white"
-        android:layout_below="@+id/map"/>
+        android:layout_below="@+id/map"
+        android:onClick="centifolia"/>
 
     <Button
         android:id="@+id/Rosa_Tea"
@@ -35,7 +36,8 @@
         android:background="@drawable/rosatea"
         android:text="ROSA TEA"
         android:textColor="@color/cadetblue"
-        android:layout_below="@+id/Rosa_Centifolia"/>
+        android:layout_below="@+id/Rosa_Centifolia"
+        android:onClick="tea"/>
 
     <Button
         android:id="@+id/Rosa_Lincoln"
