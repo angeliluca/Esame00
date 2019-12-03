@@ -26,7 +26,7 @@
         android:text="ROSA CENTIFOLIA"
         android:textColor="@color/white"
         android:layout_below="@+id/map"
-        android:onClick="centifolia"/>
+        android:onClick="open_centifolia"/>
 
     <Button
         android:id="@+id/Rosa_Tea"
@@ -37,7 +37,7 @@
         android:text="ROSA TEA"
         android:textColor="@color/cadetblue"
         android:layout_below="@+id/Rosa_Centifolia"
-        android:onClick="tea"/>
+        android:onClick="open_tea"/>
 
     <Button
         android:id="@+id/Rosa_Lincoln"
@@ -70,7 +70,7 @@
         android:background="@color/colorPrimaryDark"
         android:layout_below="@+id/Rosa_Gallica_Versicolor"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="40mm"
+        android:layout_marginTop="20mm"
         android:onClick="open_exit"/>
 
 
