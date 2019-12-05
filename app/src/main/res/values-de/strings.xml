@@ -2,18 +2,18 @@
 <resources>
 
 
-    <string name="app_name">RosetoPersolino</string>
+    <string name="app_name">PersolinoRosengarten</string>
     <string name="visitor">Besucher</string>
     <string name="technical">Technisch</string>
     <string name="map">Karte des rosengartens</string>
     <string name="exit_button">Wenn sie lhren besuch beendet haben, klicken sie hier</string>
     <string name="uscita">VIELEN DANK FUR</string>
     <string name="uscita2">LHREN BESUCH</string>
-    <string name="rosa1">ROSA CENTIFOLIA</string>
-    <string name="descrizione1"> La rosa Centifolia è detta rosa dei pittori perche spesso raffigurata nelle tele degli artisti fiamminghi. Sviluppata in Olanda, i suoi petali sono di un colore rosa brillante, con foglie ispide e verdi e moltissime spine sottili. </string>
-    <string name="rosa2">ROSA TEA</string>
-    <string name="descrizione2">La rosa tea è chiamata così perche caratterizzata da un profumo intenso che ricorda il thè fresco. Originaria della Cina viaggiò su navi adibite al trasporto di thè fino all Europa. Caratterizzata da petali color giallo vivace, può raggiungere un altezza di 2 metri. Produce dei frutti che prendono il nome di acheni leggermente coperti da peluria. Riesce a resistere sia ad alte che basse temperature ma necessita di molta luce per vivere. </string>
-    <string name="tutte_rose">CERCA LE ROSE</string>
+    <string name="rosa1">ROSE CENTIFOLIA</string>
+    <string name="descrizione1"> Die Centifolia-Rose wird als Malerrose bezeichnet, da sie häufig auf Gemälden flämischer Künstler abgebildet ist. Die in den Niederlanden entwickelten Blütenblätter sind hellrosa mit borstigen und grünen Blättern und vielen dünnen Dornen.</string>
+    <string name="rosa2">ROSE TEA</string>
+    <string name="descrizione2">Die Teerose wird so genannt, weil sie sich durch ein intensives Aroma auszeichnet, das an frischen Tee erinnert. Die gebürtige Chinesin reiste auf Schiffen, mit denen Tee nach Europa transportiert wurde. Es zeichnet sich durch leuchtend gelbe Blütenblätter aus und erreicht eine Höhe von 2 Metern. Es produziert Früchte, die Achänen genannt werden, die leicht von Haaren bedeckt sind. Es verträgt sowohl hohe als auch niedrige Temperaturen, braucht aber viel Licht, um zu leben.</string>
+    <string name="tutte_rose">SUCHE NACH ROSEN</string>
 
 
 </resources>

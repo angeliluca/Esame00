@@ -27,7 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/tutte_rose"
-        android:layout_marginTop="70mm"
+        android:layout_marginTop="90mm"
         android:layout_centerHorizontal="true"
         android:background="@color/lightcoral"
         android:onClick="open_cartina" />

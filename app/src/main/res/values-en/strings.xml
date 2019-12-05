@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RosetoPersolino</string>
+    <string name="app_name">PersolinoRoseGarden</string>
     <string name="visitor">Visitor</string>
     <string name="technical">Techical</string>
     <string name="map">Map of the rose garden</string>
     <string name="exit_button">If you have finished your visit click here</string>
     <string name="uscita">THANK YOU FOR</string>
     <string name="uscita2">YOUR VISIT</string>
-    <string name="rosa1">ROSA CENTIFOLIA</string>
-    <string name="descrizione1"> La rosa Centifolia è detta rosa dei pittori perche spesso raffigurata nelle tele degli artisti fiamminghi. Sviluppata in Olanda, i suoi petali sono di un colore rosa brillante, con foglie ispide e verdi e moltissime spine sottili. </string>
-    <string name="rosa2">ROSA TEA</string>
-    <string name="descrizione2">La rosa tea è chiamata così perche caratterizzata da un profumo intenso che ricorda il thè fresco. Originaria della Cina viaggiò su navi adibite al trasporto di thè fino all Europa. Caratterizzata da petali color giallo vivace, può raggiungere un altezza di 2 metri. Produce dei frutti che prendono il nome di acheni leggermente coperti da peluria. Riesce a resistere sia ad alte che basse temperature ma necessita di molta luce per vivere. </string>
-    <string name="tutte_rose">CERCA LE ROSE</string>
+    <string name="rosa1">CENTIFOLIA ROSE</string>
+    <string name="descrizione1"> The Centifolia rose is called the rose of painters because it is often depicted in the paintings of Flemish artists. Developed in the Netherlands, its petals are bright pink, with bristly and green leaves and many thin thorns. </string>
+    <string name="rosa2">TEA ROSE</string>
+    <string name="descrizione2">The tea rose is called such because it is characterized by an intense aroma that recalls fresh tea. Originally from China, she traveled on ships used to transport tea to Europe. Characterized by bright yellow petals, it can reach a height of 2 meters. It produces fruits that are called achenes slightly covered by down. It can withstand both high and low temperatures but needs a lot of light to live.</string>
+    <string name="tutte_rose">LOOK FOR ROSES</string>
 
 
 

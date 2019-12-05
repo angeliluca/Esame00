@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RosetoPersolino</string>
+    <string name="app_name">JardínDeRosasPersolino</string>
     <string name="visitor">Visitante</string>
     <string name="technical">Técnico</string>
     <string name="map">Mapa del jardìn de rosas</string>
     <string name="rosa1">ROSA CENTIFOLIA</string>
-    <string name="descrizione1"> La rosa Centifolia è detta rosa dei pittori perche spesso raffigurata nelle tele degli artisti fiamminghi. Sviluppata in Olanda, i suoi petali sono di un colore rosa brillante, con foglie ispide e verdi e moltissime spine sottili. </string>
+    <string name="descrizione1">La rosa Centifolia se llama rosa del pintor porque a menudo se representa en las pinturas de artistas flamencos. Desarrollado en los Países Bajos, sus pétalos son de color rosa brillante, con hojas cerdas y verdes y muchas espinas finas.</string>
     <string name="rosa2">ROSA TEA</string>
-    <string name="descrizione2">La rosa tea è chiamata così perche caratterizzata da un profumo intenso che ricorda il thè fresco. Originaria della Cina viaggiò su navi adibite al trasporto di thè fino all Europa. Caratterizzata da petali color giallo vivace, può raggiungere un altezza di 2 metri. Produce dei frutti che prendono il nome di acheni leggermente coperti da peluria. Riesce a resistere sia ad alte che basse temperature ma necessita di molta luce per vivere. </string>
-    <string name="tutte_rose">CERCA LE ROSE</string>
-    <string name="exit_button">Se hai finito la tua visita clicca qui</string>
-    <string name="uscita">GRAZIE PER LA</string>
-    <string name="uscita2">TUA VISITA</string>
+    <string name="descrizione2">La rosa de té se llama así porque se caracteriza por un aroma intenso que recuerda al té fresco. Originaria de China, viajó en barcos utilizados para transportar té a Europa. Caracterizado por pétalos amarillos brillantes, puede alcanzar una altura de 2 metros. Produce frutas que se llaman aquenos ligeramente cubiertos por el cabello. Puede soportar altas y bajas temperaturas, pero necesita mucha luz para vivir. </string>
+    <string name="tutte_rose">BUSCAR ROSAS</string>
+    <string name="exit_button">Si ha terminado su visita, haga clic aquí.</string>
+    <string name="uscita">GRACIAS POR</string>
+    <string name="uscita2">SU VISITA</string>
 
 
 
