@@ -13,7 +13,8 @@
         android:textSize="5mm"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="3mm"
-        android:textStyle="bold"/>
+        android:textStyle="bold"
+        android:textColor="@color/colorAccent"/>
 
 
     <TextView
