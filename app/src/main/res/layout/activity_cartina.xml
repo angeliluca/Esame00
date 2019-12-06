@@ -47,7 +47,8 @@
         android:background="@drawable/rosalincoln"
         android:text="ROSA MISTER LINCOLN"
         android:textColor="@color/black"
-        android:layout_below="@+id/Rosa_Tea"/>
+        android:layout_below="@+id/Rosa_Tea"
+        android:onClick="open_lincoln"/>
 
     <Button
         android:id="@+id/Rosa_Gallica_Versicolor"
@@ -57,7 +58,8 @@
         android:background="@drawable/gallica"
         android:text="ROSA GALLICA VERSICOLOR"
         android:textColor="@color/white"
-        android:layout_below="@+id/Rosa_Lincoln"/>
+        android:layout_below="@+id/Rosa_Lincoln"
+        android:onClick="open_versicolor"/>
 
 
     <Button

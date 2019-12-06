@@ -26,3 +26,10 @@ public class Cartina extends AppCompatActivity {
         Intent intent = new Intent(this,tea.class);
         startActivity(intent); }
 }
+    public void open_lincoln(View view){
+        Intent intent = new Intent(this,Lincoln.class);
+        startActivity(intent); }
+    public void open_versicolor(View view){
+        Intent intent = new Intent(this,Versicolor.class);
+        startActivity(intent); }
+    }
