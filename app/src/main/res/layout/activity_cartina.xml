@@ -13,7 +13,7 @@
         android:text="@string/elenco_rose"
         android:textColor="@color/colorAccent"
         android:textStyle="bold"
-        android:textSize="15dp"
+        android:textSize="30dp"
         android:layout_centerHorizontal="true"/>
 
 
@@ -26,7 +26,8 @@
         android:text="ROSA CENTIFOLIA"
         android:textColor="@color/white"
         android:layout_below="@+id/map"
-        android:onClick="open_centifolia"/>
+        android:onClick="open_centifolia"
+        android:layout_marginTop="20dp"/>
 
     <Button
         android:id="@+id/Rosa_Tea"
@@ -37,7 +38,8 @@
         android:text="ROSA TEA"
         android:textColor="@color/cadetblue"
         android:layout_below="@+id/Rosa_Centifolia"
-        android:onClick="open_tea"/>
+        android:onClick="open_tea"
+        android:layout_marginTop="20dp"/>
 
     <Button
         android:id="@+id/Rosa_Lincoln"
@@ -48,7 +50,8 @@
         android:text="ROSA MISTER LINCOLN"
         android:textColor="@color/black"
         android:layout_below="@+id/Rosa_Tea"
-        android:onClick="open_lincoln"/>
+        android:onClick="open_lincoln"
+        android:layout_marginTop="20dp"/>
 
     <Button
         android:id="@+id/Rosa_Gallica_Versicolor"
@@ -59,7 +62,8 @@
         android:text="ROSA GALLICA VERSICOLOR"
         android:textColor="@color/white"
         android:layout_below="@+id/Rosa_Lincoln"
-        android:onClick="open_versicolor"/>
+        android:onClick="open_versicolor"
+        android:layout_marginTop="20dp"/>
 
 
     <Button
@@ -69,10 +73,10 @@
         android:textSize="12dp"
         android:textStyle="bold"
         android:text="@string/exit_button"
-        android:background="@color/colorPrimaryDark"
+        android:background="@color/colorPrimary"
         android:layout_below="@+id/Rosa_Gallica_Versicolor"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="10dp"
         android:onClick="open_exit"/>
 
 
