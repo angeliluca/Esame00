@@ -4,6 +4,7 @@
     <string name="visitor">Visitatore</string>
     <string name="technical">Tecnico</string>
     <string name="map">Cartina del roseto</string>
+    <string name="elenco_rose">ELENCO ROSE</string>
     <string name="exit_button">Se hai finito la tua visita clicca qui</string>
     <string name="uscita">GRAZIE PER LA</string>
     <string name="uscita2">TUA VISITA</string>
@@ -12,7 +13,12 @@
     <string name="rosa2">ROSA TEA</string>
     <string name="descrizione2">La rosa tea è chiamata così perchè caratterizzata da un profumo intenso che ricorda il thè fresco. Originaria della Cina viaggiò su navi adibite al trasporto di thè fino all Europa. Caratterizzata da petali color giallo vivace, può raggiungere un altezza di 2 metri. Produce dei frutti che prendono il nome di acheni leggermente coperti da peluria. Riesce a resistere sia ad alte che basse temperature ma necessita di molta luce per vivere. </string>
     <string name="tutte_rose">CERCA LE ROSE</string>
-
+    <string name="rosa3">ROSA MISTER LINCOLN</string>
+    <string name="descrizione3">La rosa Mister Lincoln fiorisce nei mesi nei mesi estivi e autunnali con fioritura unica. Presenta una tonalità rosso scarlatto e al tatto risulta vellutata. Si tratta di un fiore doppio che presenta dai 15 ai 30 petali ed ha un profumo intenso. Riesce a sopravvivere tra i -10°C e i 37°C ed è quindi adatta ad habitat come il Nord Italia e gli appennini. </string>
+    <string name="rosa4">ROSA GALLICA VERSICOLOR</string>
+    <string name="descrizione4">Questa rosa, assai antica, è una mutazione della R. gallica officinalis. Probabilmente è la più antica tra le rose variegate. I fiori sono rosso chiaro e bianco, striati in modo diverso. Questa pianta non si sviluppa particolarmente, ha un portamento appena eretto e compatto che si modifica, arcuandosi, quando la fioritura è al massimo della sua crescita ed è ricoperto di foglioline verde chiaro che sfumano al grigio. Non è molto spinosa ma i rami, rametti e peduncoli sono ricoperti da una fitta trama di setole.
+La più romantica delle numerose leggende su di essa dice che prende il nome da "Fair Rosamund", l'amante di Enrico II.
+</string>
 
 </resources>
 

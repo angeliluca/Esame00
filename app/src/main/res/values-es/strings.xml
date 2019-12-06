@@ -4,6 +4,7 @@
     <string name="visitor">Visitante</string>
     <string name="technical">Técnico</string>
     <string name="map">Mapa del jardìn de rosas</string>
+    <string name="elenco_rose">LISTA DE ROSAS</string>
     <string name="rosa1">ROSA CENTIFOLIA</string>
     <string name="descrizione1">La rosa Centifolia se llama rosa del pintor porque a menudo se representa en las pinturas de artistas flamencos. Desarrollado en los Países Bajos, sus pétalos son de color rosa brillante, con hojas cerdas y verdes y muchas espinas finas.</string>
     <string name="rosa2">ROSA TEA</string>
@@ -12,7 +13,11 @@
     <string name="exit_button">Si ha terminado su visita, haga clic aquí.</string>
     <string name="uscita">GRACIAS POR</string>
     <string name="uscita2">SU VISITA</string>
-
+    <string name="rosa3">ROSA MISTER LINCOLN</string>
+    <string name="descrizione3">El señor Lincoln floreció durante los meses de verano y otoño con una floración única. Tiene un tono rojo escarlata y es aterciopelado al tacto. Es una flor doble con 15 a 30 pétalos y un aroma intenso. Puede sobrevivir entre -10 ° C y 37 ° C y, por lo tanto, es adecuado para hábitats como el norte de Italia y los Apeninos.</string>
+    <string name="rosa4">ROSA GALLICA VERSICOLOR</string>
+    <string name="descrizione4">Esta rosa muy antigua es una mutación de R. gallica officinalis. Es probablemente la más antigua de las rosas abigarradas. Las flores son de color rojo claro y blanco, veteadas de diferentes maneras. Esta planta no se desarrolla particularmente, tiene un hábito ligeramente erecto y compacto que cambia, arqueándose, cuando la floración está en su máximo crecimiento y está cubierta de hojas de color verde claro que se desvanecen a gris. No es muy espinoso, pero las ramas, ramitas y pedúnculos están cubiertos por un denso tejido de cerdas.
+La más romántica de las muchas leyendas al respecto dice que toma su nombre de "Fair Rosamund", el amante de Enrique II.</string>
 
 
 </resources>

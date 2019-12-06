@@ -25,7 +25,7 @@ public class Cartina extends AppCompatActivity {
     public void open_tea(View view) {
         Intent intent = new Intent(this,tea.class);
         startActivity(intent); }
-}
+
     public void open_lincoln(View view){
         Intent intent = new Intent(this,Lincoln.class);
         startActivity(intent); }

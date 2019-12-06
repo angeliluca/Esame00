@@ -10,10 +10,10 @@
         android:id="@+id/map"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ELENCO ROSE"
+        android:text="@string/elenco_rose"
         android:textColor="@color/colorAccent"
         android:textStyle="bold"
-        android:textSize="5mm"
+        android:textSize="15dp"
         android:layout_centerHorizontal="true"/>
 
 
@@ -66,13 +66,13 @@
         android:id="@+id/exit_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="2mm"
+        android:textSize="12dp"
         android:textStyle="bold"
         android:text="@string/exit_button"
         android:background="@color/colorPrimaryDark"
         android:layout_below="@+id/Rosa_Gallica_Versicolor"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="10mm"
+        android:layout_marginTop="20dp"
         android:onClick="open_exit"/>
 
 
