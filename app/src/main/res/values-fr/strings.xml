@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">RoseraiePersolino</string>
+    <string name="benvenuti">Bienvenue</string>
+    <string name="start">COMMENCE TA VISITE</string>
     <string name="visitor">Visiteur</string>
     <string name="technical">Technique</string>
     <string name="map">Carte de la roseraie</string>

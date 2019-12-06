@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+xmlns:tools="http://schemas.android.com/tools"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/rose3"
+<TextView
+    android:id="@+id/titolo"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/rosa3"
+    android:textStyle="bold"
+    android:textSize="20dp"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="15dp"
+    android:textColor="@color/lightcoral"/>
+
+<TextView
+    android:id="@+id/rose3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/descrizione3"
+    android:layout_below="@+id/titolo"
+    android:textSize="15dp"
+    android:layout_marginTop="15dp"/>
+
+    <ImageView
+        android:id="@+id/Rosa3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/rosa3"
-        android:textSize="5mm"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="3mm"
-        android:textStyle="bold"
-        android:textColor="@color/colorAccent"/>
-
-
-    <TextView
-        android:id="@+id/descrizione3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/descrizione3"
         android:layout_below="@+id/rose3"
-        android:layout_marginTop="5mm"
-        android:textSize="3mm"/>
+        android:layout_marginTop="-2dp"
+        android:src="@drawable/rosalincoln" />
 
 
 </RelativeLayout>
-
-
-

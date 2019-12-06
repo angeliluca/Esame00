@@ -12,6 +12,8 @@
         <activity android:name=".mappa"></activity>
         <activity android:name=".tea" />
         <activity android:name=".centifolia" />
+        <activity android:name=".Lincoln" />
+        <activity android:name=".Versicolor" />
         <activity android:name=".Exit" />
         <activity android:name=".Cartina" />
         <activity android:name=".Visita" />

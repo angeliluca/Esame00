@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">JardínDeRosasPersolino</string>
+    <string name="benvenuti">Bienvenidos</string>
+    <string name="start">COMIENZA TU VISITA</string>
     <string name="visitor">Visitante</string>
     <string name="technical">Técnico</string>
     <string name="map">Mapa del jardìn de rosas</string>

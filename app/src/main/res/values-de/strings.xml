@@ -3,6 +3,8 @@
 
 
     <string name="app_name">PersolinoRosengarten</string>
+    <string name="benvenuti">Willkommen</string>
+    <string name="start">BEGINNEN SIE IHREN BESUCH</string>
     <string name="visitor">Besucher</string>
     <string name="technical">Technisch</string>
     <string name="map">Karte des rosengartens</string>

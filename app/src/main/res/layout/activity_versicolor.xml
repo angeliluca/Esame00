@@ -6,24 +6,32 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/rose4"
+        android:id="@+id/titolo4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/rosa4"
-        android:textSize="5mm"
+        android:textStyle="bold"
+        android:textSize="20dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="3mm"
-        android:textStyle="bold"/>
-
+        android:layout_marginTop="15dp"
+        android:textColor="@color/lightcoral"/>
 
     <TextView
-        android:id="@+id/descrizione4"
+        android:id="@+id/rose4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/descrizione4"
-        android:layout_below="@+id/rose4"
-        android:layout_marginTop="5mm"
-        android:textSize="3mm"/>
+        android:layout_below="@+id/titolo4"
+        android:textSize="15dp"
+        android:layout_marginTop="15dp"/>
 
+    <ImageView
+        android:id="@+id/Rosa4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rose4"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/gallica" />
 
 </RelativeLayout>

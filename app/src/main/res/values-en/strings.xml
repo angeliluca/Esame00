@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">PersolinoRoseGarden</string>
+    <string name="benvenuti">Welcome</string>
+    <string name="start">START YOUR VISIT</string>
     <string name="visitor">Visitor</string>
     <string name="technical">Techical</string>
     <string name="map">Map of the rose garden</string>

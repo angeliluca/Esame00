@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="@android:dimen/app_icon_size"
-        android:text="BENVENUTI"
+        android:text="@string/benvenuti"
         android:textStyle="bold"/>
 
 
@@ -79,7 +79,7 @@
         android:layout_marginRight="@android:dimen/app_icon_size"
         android:background="@color/colorAccent"
         android:onClick="visita"
-        android:text="INIZIA LA TUA VISITA"
+        android:text="@string/start"
         />
 
 </LinearLayout>

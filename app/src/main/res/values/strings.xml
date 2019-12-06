@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">RosetoPersolino</string>
+    <string name="benvenuti">Benvenuti</string>
+    <string name="start">INIZIA LA TUA VISITA</string>
     <string name="visitor">Visitatore</string>
     <string name="technical">Tecnico</string>
     <string name="map">Cartina del roseto</string>
