@@ -33,7 +33,21 @@
         android:layout_height="wrap_content"
         android:src="@drawable/smile"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="20mm"/>
+        android:layout_marginTop="5mm"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/info"
+        android:textSize="18sp" />
+    <TextView
+        android:id="@+id/imageUrl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="https://www.persolinostrocchi.edu.it/risorse-e-attrezzature/roseto/"
+        android:autoLink="web"/>
 
 
 

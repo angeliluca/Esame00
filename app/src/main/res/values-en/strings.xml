@@ -22,5 +22,27 @@
 The most romantic of the many legends about it says that it takes its name from "Fair Rosamund", the lover of Henry II.
 </string>
 
+    <string name="fioritura">PERIODO DI FIORITURA:</string>
+    <string name="colore">COLORE</string>
+    <string name="forma">FORMA</string>
+    <string name="profumo">PROFUMO</string>
+    <string name="area">AREA CLIMATICA</string>
+    <string name="altezza">ALTEZZA</string>
+    <string name="diametro">DIAMETRO</string>
+    <string name="malattie">MALATTIE</string>
+
+
+    <string name="fioritura1">Unica e Tardiva</string>
+    <string name="colore1">Rosa pastello</string>
+    <string name="forma1">Globulosa, i fiori si aprono a coppa profonda </string>
+    <string name="profumo1">Inebriante e dolce </string>
+    <string name="area1">Tutte</string>
+    <string name="altezza1">120</string>
+    <string name="diametro1">10</string>
+    <string name="malattie1">Funghi e parassiti</string>
+
+
+    <string name="info">Per maggiori informazioni</string>
+
 
 </resources>
