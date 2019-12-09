@@ -21,23 +21,47 @@ public class Cartina extends AppCompatActivity {
     }
 
     public void open_centifolia(View view) {
-        Intent intent = new Intent(this, centifolia.class);
-        startActivity(intent);
+        if(Visita.tecOrVis == 0) {
+            Intent intent = new Intent(this, centifolia.class);
+            startActivity(intent);
+        }
+        else {
+            Intent intent = new Intent(this, centifoliaTec.class);
+            startActivity(intent);
+        }
     }
 
     public void open_tea(View view) {
-        Intent intent = new Intent(this, tea.class);
-        startActivity(intent);
+        if(Visita.tecOrVis == 0) {
+            Intent intent = new Intent(this, tea.class);
+            startActivity(intent);
+        }
+        else {
+            Intent intent = new Intent(this, TeaTec.class);
+            startActivity(intent);
+        }
     }
 
     public void open_lincoln(View view) {
-        Intent intent = new Intent(this, Lincoln.class);
-        startActivity(intent);
+        if(Visita.tecOrVis == 0) {
+            Intent intent = new Intent(this, Lincoln.class);
+            startActivity(intent);
+        }
+        else {
+            Intent intent = new Intent(this, LincolnTec.class);
+            startActivity(intent);
+        }
     }
 
     public void open_versicolor(View view) {
-        Intent intent = new Intent(this, Versicolor.class);
-        startActivity(intent);
+        if(Visita.tecOrVis == 0) {
+            Intent intent = new Intent(this, Versicolor.class);
+            startActivity(intent);
+        }
+        else {
+            Intent intent = new Intent(this, VersicolorTec.class);
+            startActivity(intent);
+        }
     }
 
 }

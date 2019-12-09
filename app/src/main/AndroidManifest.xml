@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.esame01">
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:allowBackup="true"
@@ -11,7 +12,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".centifoliat"/>
+        <activity android:name=".VersicolorTec"></activity>
+        <activity android:name=".LincolnTec" />
+        <activity android:name=".TeaTec" />
+        <activity android:name=".centifoliaTec" />
         <activity android:name=".mappa" />
         <activity android:name=".tea" />
         <activity android:name=".centifolia" />
