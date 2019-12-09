@@ -41,6 +41,16 @@ La più romantica delle numerose leggende su di essa dice che prende il nome da 
     <string name="malattie1">Funghi e parassiti</string>
 
 
+    <string name="fioritura2">da maggio a settembre</string>
+    <string name="colore2">Giallo vivace</string>
+    <string name="forma2">Fiori grandi composti dal calice composto da 5 sepali e dalla corolla con 5 petali e stami
+ </string>
+    <string name="profumo2">thè</string>
+    <string name="area2"> Riesce a resistere sia ad alte che a basse temperature </string>
+    <string name="altezza2">200</string>
+    <string name="diametro2">9</string>
+    <string name="malattie2">Funghi e parassiti</string>
+
     <string name="info">Per maggiori informazioni</string>
 
 

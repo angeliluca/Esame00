@@ -23,25 +23,25 @@
     <string name="descrizione4">Diese sehr alte Rose ist eine Mutation von R. gallica officinalis. Es ist wahrscheinlich die älteste der bunten Rosen. Die Blüten sind hellrot und weiß, unterschiedlich gestreift. Diese Pflanze entwickelt sich nicht besonders, sie hat einen leicht aufrechten und kompakten Wuchs, der sich ändert und wölbt, wenn die Blüte ihr maximales Wachstum erreicht und mit hellgrünen Blättern bedeckt ist, die zu grau verblassen. Es ist nicht sehr dornig, aber die Zweige, Zweige und Stiele sind von einem dichten Geflecht von Borsten bedeckt.
 Die romantischste der vielen Legenden besagt, dass sie ihren Namen von "Fair Rosamund", dem Liebhaber Heinrichs II., Hat.</string>
 
-    <string name="fioritura">PERIODO DI FIORITURA:</string>
-    <string name="colore">COLORE</string>
-    <string name="forma">FORMA</string>
-    <string name="profumo">PROFUMO</string>
-    <string name="area">AREA CLIMATICA</string>
-    <string name="altezza">ALTEZZA</string>
-    <string name="diametro">DIAMETRO</string>
-    <string name="malattie">MALATTIE</string>
+    <string name="fioritura">BLÜHENDE ZEIT:</string>
+    <string name="colore">COLOR</string>
+    <string name="forma">FORM</string>
+    <string name="profumo">PARFUM</string>
+    <string name="area">KLIMAFELD</string>
+    <string name="altezza">HÖHE</string>
+    <string name="diametro">DIAMETER</string>
+    <string name="malattie">KRANKHEITEN</string>
 
 
-    <string name="fioritura1">Unica e Tardiva</string>
-    <string name="colore1">Rosa pastello</string>
-    <string name="forma1">Globulosa, i fiori si aprono a coppa profonda </string>
-    <string name="profumo1">Inebriante e dolce </string>
-    <string name="area1">Tutte</string>
+    <string name="fioritura1">Einzigartig und spät</string>
+    <string name="colore1">Pastell stieg auf</string>
+    <string name="forma1">Globulose, die Blüten öffnen sich in einer tiefen Tasse</string>
+    <string name="profumo1">Berauschend und süß </string>
+    <string name="area1">Alle</string>
     <string name="altezza1">120</string>
     <string name="diametro1">10</string>
-    <string name="malattie1">Funghi e parassiti</string>
+    <string name="malattie1">Pilze und Parasiten</string>
 
-    <string name="info">Per maggiori informazioni</string>
+    <string name="info">Für mehr Informationen</string>
 
 </resources>

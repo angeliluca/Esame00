@@ -18,10 +18,12 @@
         <TextView
             android:text="@string/fioritura"
             android:padding="3dip" />
+
         <TextView
-            android:text="@string/fioritura1"
+            android:layout_width="match_parent"
             android:gravity="center_horizontal"
-            android:padding="3dip"/>
+            android:padding="3dip"
+            android:text="@string/fioritura1" />
     </TableRow>
     <TableRow>
         <TextView
@@ -41,14 +43,14 @@
             android:layout_height="match_parent"
             android:gravity="center_horizontal"
             android:padding="3dip"
-            android:text="@string/forma1" />
+            android:text="@string/forma2" />
     </TableRow>
     <TableRow>
         <TextView
             android:text="@string/profumo"
             android:padding="3dip" />
         <TextView
-            android:text="@string/profumo1"
+            android:text="@string/profumo2"
             android:gravity="center_horizontal"
             android:padding="3dip"/>
     </TableRow>
@@ -57,7 +59,7 @@
             android:text="@string/area"
             android:padding="3dip" />
         <TextView
-            android:text="@string/area1"
+            android:text="@string/area2"
             android:gravity="center_horizontal"
             android:padding="3dip"/>
     </TableRow>
@@ -67,7 +69,7 @@
             android:text="@string/altezza"
             android:padding="3dip" />
         <TextView
-            android:text="@string/altezza1"
+            android:text="@string/altezza2"
             android:gravity="center_horizontal"
             android:padding="3dip"/>
     </TableRow>
@@ -77,7 +79,7 @@
             android:text="@string/diametro"
             android:padding="3dip" />
         <TextView
-            android:text="@string/diametro1"
+            android:text="@string/diametro2"
             android:gravity="center_horizontal"
             android:padding="3dip"/>
     </TableRow>
@@ -86,7 +88,7 @@
             android:text="@string/malattie"
             android:padding="3dip" />
         <TextView
-            android:text="@string/malattie1"
+            android:text="@string/malattie2"
             android:gravity="center_horizontal"
             android:padding="3dip"/>
 
