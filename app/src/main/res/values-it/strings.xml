@@ -24,13 +24,13 @@ La più romantica delle numerose leggende su di essa dice che prende il nome da 
 
 
     <string name="fioritura">PERIODO DI FIORITURA:</string>
-    <string name="colore">COLORE</string>
-    <string name="forma">FORMA</string>
-    <string name="profumo">PROFUMO</string>
-    <string name="area">AREA CLIMATICA</string>
-    <string name="altezza">ALTEZZA</string>
-    <string name="diametro">DIAMETRO</string>
-    <string name="malattie">MALATTIE</string>
+    <string name="colore">COLORE:</string>
+    <string name="forma">FORMA:</string>
+    <string name="profumo">PROFUMO:</string>
+    <string name="area">AREA CLIMATICA:</string>
+    <string name="altezza">ALTEZZA:</string>
+    <string name="diametro">DIAMETRO:</string>
+    <string name="malattie">MALATTIE:</string>
 
 
 

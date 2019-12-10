@@ -10,4 +10,6 @@
     <color name="cadetblue">#5f9ea0</color>
     <color name="black">#000000</color>
     <color name="gold">#ffd700</color>
+    <color name="tec1">#FFCCCC</color>
+    <color name="tec2">#FFBBBB</color>
 </resources>

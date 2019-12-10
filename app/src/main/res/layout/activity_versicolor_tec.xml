@@ -17,28 +17,40 @@
     <TableRow>
         <TextView
             android:text="@string/fioritura"
-            android:padding="3dip" />
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
         <TextView
             android:text="@string/fioritura1"
             android:gravity="center_horizontal"
-            android:padding="3dip"/>
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
     </TableRow>
     <TableRow>
         <TextView
             android:text="@string/colore"
-            android:padding="3dip" />
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
         <TextView
             android:text="@string/colore1"
             android:gravity="center_horizontal"
-            android:padding="3dip"/>
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
     </TableRow>
     <TableRow>
         <TextView
             android:text="@string/forma"
-            android:padding="3dip" />
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
 
         <TextView
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"
             android:gravity="center_horizontal"
             android:padding="3dip"
             android:text="@string/forma1" />
@@ -46,49 +58,69 @@
     <TableRow>
         <TextView
             android:text="@string/profumo"
-            android:padding="3dip" />
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
         <TextView
             android:text="@string/profumo1"
             android:gravity="center_horizontal"
-            android:padding="3dip"/>
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
     </TableRow>
     <TableRow>
         <TextView
             android:text="@string/area"
-            android:padding="3dip" />
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
         <TextView
             android:text="@string/area1"
             android:gravity="center_horizontal"
-            android:padding="3dip"/>
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
     </TableRow>
     <TableRow>
 
         <TextView
             android:text="@string/altezza"
-            android:padding="3dip" />
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
         <TextView
             android:text="@string/altezza1"
             android:gravity="center_horizontal"
-            android:padding="3dip"/>
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
     </TableRow>
 
     <TableRow>
         <TextView
             android:text="@string/diametro"
-            android:padding="3dip" />
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
         <TextView
             android:text="@string/diametro1"
             android:gravity="center_horizontal"
-            android:padding="3dip"/>
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
     </TableRow>
     <TableRow>
         <TextView
             android:text="@string/malattie"
-            android:padding="3dip" />
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
         <TextView
             android:text="@string/malattie1"
             android:gravity="center_horizontal"
-            android:padding="3dip"/>
+            android:padding="3dip"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"/>
 
 </TableRow>
 
