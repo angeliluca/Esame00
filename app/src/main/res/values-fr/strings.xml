@@ -21,27 +21,27 @@
     <string name="descrizione4">Cette très ancienne rose est une mutation de R. gallica officinalis. C est probablement la plus ancienne des roses panachées. Les fleurs sont rouge clair et blanc, striées de différentes manières. Cette plante ne se développe pas particulièrement, elle a un port légèrement érigé et compact qui change, se cambrant, lorsque la floraison est à son maximum de croissance et est recouverte de feuilles vert clair qui s estompent en gris. Ce n est pas très épineux mais les branches, les brindilles et les pédoncules sont recouverts d un dense tissu de soies.La plus romantique des nombreuses légendes à ce sujet dit qu il tire son nom de "Fair Rosamund", l amant d Henri II.</string>
 
 
-    <string name="fioritura">PERIODO DI FIORITURA:</string>
-    <string name="colore">COLORE</string>
-    <string name="forma">FORMA</string>
-    <string name="profumo">PROFUMO</string>
-    <string name="area">AREA CLIMATICA</string>
-    <string name="altezza">ALTEZZA</string>
-    <string name="diametro">DIAMETRO</string>
-    <string name="malattie">MALATTIE</string>
+    <string name="fioritura">PERIODE DE FLEURAISON:</string>
+    <string name="colore">COULEUR</string>
+    <string name="forma">FORME</string>
+    <string name="profumo">PARFUM</string>
+    <string name="area">ZONE CLIMATIQUE</string>
+    <string name="altezza">HAUTEUR</string>
+    <string name="diametro">DIAMETRE</string>
+    <string name="malattie">MALADIES</string>
 
 
 
-    <string name="fioritura1">Unica e Tardiva</string>
-    <string name="colore1">Rosa pastello</string>
-    <string name="forma1">Globulosa, i fiori si aprono a coppa profonda </string>
-    <string name="profumo1">Inebriante e dolce </string>
-    <string name="area1">Tutte</string>
+    <string name="fioritura1">Unique et tardive</string>
+    <string name="colore1">Rose pastel</string>
+    <string name="forma1">Les fleurs s ouvrent en coupes </string>
+    <string name="profumo1">Enivrant et doux </string>
+    <string name="area1">Toute</string>
     <string name="altezza1">120</string>
     <string name="diametro1">10</string>
-    <string name="malattie1">Funghi e parassiti</string>
+    <string name="malattie1">Champignons et parasites</string>
 
-    <string name="info">Per maggiori informazioni</string>
+    <string name="info">Pour plus d informations</string>
 
 
 

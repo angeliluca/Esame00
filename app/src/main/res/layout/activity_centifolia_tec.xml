@@ -5,7 +5,8 @@
     android:layout_height="match_parent"
     android:stretchColumns="1"
     android:visibility="visible"
-    android:background="@color/tec1">
+    android:background="@color/tec1"
+    >
 
 
     <TextView
@@ -145,13 +146,7 @@
             android:layout_width="0dp"/>
 
     </TableRow>
-    <TableRow
-        android:background="@color/tec2">
-        <View
-            android:layout_height="4dp"
-            android:layout_width="match_parent"
-            android:layout_span="2"/>
-    </TableRow>
+
 
     <ImageView
         android:id="@+id/Rosa"
