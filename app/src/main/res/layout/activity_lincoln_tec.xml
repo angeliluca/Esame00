@@ -23,7 +23,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"/>
         <TextView
-            android:text="@string/fioritura1"
+            android:text="@string/fioritura3"
             android:gravity="center_horizontal"
             android:padding="3dip"
             android:layout_height="wrap_content"
@@ -38,7 +38,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
         <TextView
-            android:text="@string/colore1"
+            android:text="@string/colore3"
             android:gravity="center_horizontal"
             android:padding="3dip"
             android:layout_height="wrap_content"
@@ -60,7 +60,7 @@
             android:padding="3dip"
             android:layout_weight="0.5"
             android:layout_width="0dp"
-            android:text="@string/forma1" />
+            android:text="@string/forma3" />
     </TableRow>
     <TableRow>
         <TextView
@@ -70,7 +70,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
         <TextView
-            android:text="@string/profumo1"
+            android:text="@string/profumo3"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:padding="3dip"
@@ -85,7 +85,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
         <TextView
-            android:text="@string/area1"
+            android:text="@string/area3"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:padding="3dip"
@@ -101,7 +101,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
         <TextView
-            android:text="@string/altezza1"
+            android:text="@string/altezza3"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:padding="3dip"
@@ -117,7 +117,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
         <TextView
-            android:text="@string/diametro1"
+            android:text="@string/diametro3"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:padding="3dip"
@@ -132,7 +132,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
         <TextView
-            android:text="@string/malattie1"
+            android:text="@string/malattie3"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:padding="3dip"

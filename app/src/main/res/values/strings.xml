@@ -53,6 +53,15 @@ La più romantica delle numerose leggende su di essa dice che prende il nome da 
 
     <string name="info">Per maggiori informazioni</string>
 
+    <string name="fioritura3">giugno-ottobre</string>
+    <string name="colore3">rossoscarlatto vellutato</string>
+    <string name="forma3">fiore doppio con 15-30 petali</string>
+    <string name="profumo3">intenso</string>
+    <string name="area3">sopravvive tra i -10 e i 37 gradi, nel nord e negli Appennini</string>
+    <string name="altezza3">100</string>
+    <string name="diametro3">12</string>
+    <string name="malattie3">acari e afidi</string>
+
 
 </resources>
 

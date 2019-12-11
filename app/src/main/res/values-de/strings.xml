@@ -42,6 +42,29 @@ Die romantischste der vielen Legenden besagt, dass sie ihren Namen von "Fair Ros
     <string name="diametro1">10</string>
     <string name="malattie1">Pilze und Parasiten</string>
 
+    <string name="fioritura2">da maggio a settembre</string>
+    <string name="colore2">Giallo vivace</string>
+    <string name="forma2">Fiori grandi composti dal calice composto da 5 sepali e dalla corolla con 5 petali e stami
+ </string>
+    <string name="profumo2">thè</string>
+    <string name="area2"> Riesce a resistere sia ad alte che a basse temperature </string>
+    <string name="altezza2">200</string>
+    <string name="diametro2">9</string>
+    <string name="malattie2">Funghi e parassiti</string>
+
     <string name="info">Für mehr Informationen</string>
+    <string name="fioritura3">giugno-ottobre</string>
+    <string name="colore3">rossoscarlatto vellutato</string>
+    <string name="forma3">fiore doppio con 15-30 petali</string>
+    <string name="profumo3">intenso</string>
+    <string name="area3">sopravvive tra i -10 e i 37 gradi, nel nord e negli Appennini</string>
+    <string name="altezza3">100</string>
+    <string name="diametro3">12</string>
+    <string name="malattie3">acari e afidi</string>
+
+
+
+
+
 
 </resources>
