@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:stretchColumns="1"
     android:visibility="visible"
-    android:background="@color/tec1"
+    android:background="@color/lightcoral"
     >
 
 
@@ -18,7 +18,7 @@
         android:textSize="30sp"
         android:gravity="center_horizontal"
         android:layout_margin="15dp"
-        android:textColor="@color/lightcoral"/>
+        android:textColor="@color/tec2"/>
     <TableRow android:background="@color/tec2">
 
         <TextView
@@ -36,7 +36,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"/>
     </TableRow>
-    <TableRow android:background="@color/tec1">
+    <TableRow>
         <TextView
             android:text="@string/colore"
             android:padding="3dip"
@@ -69,7 +69,7 @@
             android:layout_width="0dp"
             />
     </TableRow>
-    <TableRow android:background="@color/tec1">
+    <TableRow>
         <TextView
             android:text="@string/profumo"
             android:padding="3dip"
@@ -99,7 +99,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"/>
     </TableRow>
-    <TableRow android:background="@color/tec1">
+    <TableRow>
 
         <TextView
             android:text="@string/altezza"
@@ -131,7 +131,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"/>
     </TableRow>
-    <TableRow android:background="@color/tec1">
+    <TableRow>
         <TextView
             android:text="@string/malattie"
             android:padding="3dip"

@@ -12,4 +12,7 @@
     <color name="gold">#ffd700</color>
     <color name="tec1">#FFCCCC</color>
     <color name="tec2">#FFBBBB</color>
+    <color name="yellow">#FFFF99</color>
+    <color name="red">#CC3333</color>
+    <color name="lred">#FF6666</color>
 </resources>

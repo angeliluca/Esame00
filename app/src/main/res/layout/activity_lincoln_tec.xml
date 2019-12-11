@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:stretchColumns="1"
-    android:background="@color/tec1">
+    android:background="@color/red">
 
     <TextView
         android:id="@+id/titolo"
@@ -14,8 +14,8 @@
         android:textSize="30sp"
         android:gravity="center_horizontal"
         android:layout_marginTop="15dp"
-        android:textColor="@color/lightcoral"/>
-    <TableRow android:background="@color/tec2">
+        android:textColor="@color/lred"/>
+    <TableRow>
         <TextView
             android:text="@string/fioritura"
             android:padding="3dip"
@@ -30,7 +30,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
     </TableRow>
-    <TableRow>
+    <TableRow android:background="@color/lred">
         <TextView
             android:text="@string/colore"
             android:padding="3dip"
@@ -45,7 +45,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
     </TableRow>
-    <TableRow android:background="@color/tec2">
+    <TableRow>
         <TextView
             android:text="@string/forma"
             android:padding="3dip"
@@ -62,7 +62,7 @@
             android:layout_width="0dp"
             android:text="@string/forma3" />
     </TableRow>
-    <TableRow>
+    <TableRow android:background="@color/lred">
         <TextView
             android:text="@string/profumo"
             android:layout_height="wrap_content"
@@ -77,7 +77,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
     </TableRow>
-    <TableRow android:background="@color/tec2">
+    <TableRow>
         <TextView
             android:text="@string/area"
             android:layout_height="wrap_content"
@@ -92,7 +92,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
     </TableRow>
-    <TableRow>
+    <TableRow android:background="@color/lred">
 
         <TextView
             android:text="@string/altezza"
@@ -109,7 +109,7 @@
             android:layout_width="0dp"/>
     </TableRow>
 
-    <TableRow android:background="@color/tec2">
+    <TableRow>
         <TextView
             android:text="@string/diametro"
             android:layout_height="wrap_content"
@@ -124,7 +124,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
     </TableRow>
-    <TableRow>
+    <TableRow android:background="@color/lred">
         <TextView
             android:text="@string/malattie"
             android:layout_height="wrap_content"
