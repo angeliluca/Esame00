@@ -2,7 +2,8 @@
 <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:stretchColumns="1">
+    android:stretchColumns="1"
+    android:background="@color/tec1">
 
     <TextView
         android:id="@+id/titolo"
@@ -14,7 +15,7 @@
         android:gravity="center_horizontal"
         android:layout_marginTop="15dp"
         android:textColor="@color/lightcoral"/>
-    <TableRow>
+    <TableRow android:background="@color/tec2">
         <TextView
             android:text="@string/fioritura"
             android:padding="3dip"
@@ -40,7 +41,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
     </TableRow>
-    <TableRow>
+    <TableRow android:background="@color/tec2">
         <TextView
             android:text="@string/forma"
             android:padding="3dip"
@@ -68,7 +69,7 @@
             android:layout_weight="0.5"
             android:layout_width="0dp"/>
     </TableRow>
-    <TableRow>
+    <TableRow android:background="@color/tec2">
         <TextView
             android:text="@string/area"
             android:padding="3dip"
@@ -96,7 +97,7 @@
             android:layout_width="0dp"/>
     </TableRow>
 
-    <TableRow>
+    <TableRow android:background="@color/tec2">
         <TextView
             android:text="@string/diametro"
             android:padding="3dip"
