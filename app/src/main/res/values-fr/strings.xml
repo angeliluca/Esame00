@@ -62,13 +62,13 @@
     <string name="diametro3">12</string>
     <string name="malattie3">acariens et pucerons</string>
 
-    <string name="fioritura4">Unique et tardive</string>
-    <string name="colore4">Rose pastel</string>
-    <string name="forma4">Les fleurs s ouvrent en coupes </string>
-    <string name="profumo4">Enivrant et doux </string>
-    <string name="area4">Toute</string>
-    <string name="altezza4">120</string>
-    <string name="diametro4">10</string>
-    <string name="malattie4">Champignons et parasites</string>
+    <string name="fioritura4">été unique</string>
+    <string name="colore4">panaché</string>
+    <string name="forma4">semi-double avec 22 - 34 pétales</string>
+    <string name="profumo4">excellent</string>
+    <string name="area4">4-8 zones très froides</string>
+    <string name="altezza4">90</string>
+    <string name="diametro4">90</string>
+    <string name="malattie4">oïdium</string>
 
 </resources>

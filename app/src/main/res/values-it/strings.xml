@@ -58,20 +58,20 @@ La più romantica delle numerose leggende su di essa dice che prende il nome da 
 
     <string name="fioritura3">giugno-ottobre</string>
     <string name="colore3">rossoscarlatto vellutato</string>
-    <string name="forma3">fiore doppio con 15-30 petali</string>
+    <string name="forma3">fiore doppio con 15/30 petali</string>
     <string name="profumo3">intenso</string>
     <string name="area3">sopravvive tra i -10 e i 37 gradi, nel nord e negli Appennini</string>
     <string name="altezza3">100</string>
     <string name="diametro3">12</string>
     <string name="malattie3">acari e afidi</string>
 
-    <string name="fioritura4">Unique et tardive</string>
-    <string name="colore4">Rose pastel</string>
-    <string name="forma4">Les fleurs s ouvrent en coupes </string>
-    <string name="profumo4">Enivrant et doux </string>
-    <string name="area4">Toute</string>
-    <string name="altezza4">120</string>
-    <string name="diametro4">10</string>
-    <string name="malattie4">Champignons et parasites</string>
+    <string name="fioritura4">Estiva Univa</string>
+    <string name="colore4">Variegato</string>
+    <string name="forma4">Semidoppia con 22/34 petali </string>
+    <string name="profumo4">ottimo</string>
+    <string name="area4">4/8 zone freddissime</string>
+    <string name="altezza4">90</string>
+    <string name="diametro4">90</string>
+    <string name="malattie4">oidio</string>
 </resources>
 
