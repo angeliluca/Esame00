@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-
     <string name="app_name">PersolinoRosengarten</string>
     <string name="benvenuti">Willkommen</string>
     <string name="start">BEGINNEN SIE IHREN BESUCH</string>
@@ -51,7 +50,6 @@ Die romantischste der vielen Legenden besagt, dass sie ihren Namen von "Fair Ros
     <string name="diametro2">9</string>
     <string name="malattie2">Pilze und Parasiten</string>
 
-    <string name="info">Für mehr Informationen</string>
     <string name="fioritura3">Juni-Oktober</string>
     <string name="colore3">samtrot rotscarlatto</string>
     <string name="forma3">Doppelblüte mit 15/30 Blütenblättern</string>
@@ -61,9 +59,6 @@ Die romantischste der vielen Legenden besagt, dass sie ihren Namen von "Fair Ros
     <string name="diametro3">12</string>
     <string name="malattie3">Milben und Afidi</string>
 
-
-
-
     <string name="fioritura4">einzigartiger Sommer</string>
     <string name="colore4">Abwechslungsreiche</string>
     <string name="forma4">Doppel Halb mit 22/34 Blütenblättern </string>
@@ -72,5 +67,7 @@ Die romantischste der vielen Legenden besagt, dass sie ihren Namen von "Fair Ros
     <string name="altezza4">90</string>
     <string name="diametro4">90</string>
     <string name="malattie4">oidio</string>
+
+    <string name="info">Für mehr Informationen</string>
 
 </resources>

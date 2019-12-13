@@ -31,7 +31,6 @@ The most romantic of the many legends about it says that it takes its name from 
     <string name="diametro">DIAMETER</string>
     <string name="malattie">ILLNESSES</string>
 
-
     <string name="fioritura1">Unique and Late</string>
     <string name="colore1">Pastel rose</string>
     <string name="forma1">Globulose, the flowers open in a deep cup</string>
@@ -49,9 +48,6 @@ The most romantic of the many legends about it says that it takes its name from 
     <string name="altezza2">200</string>
     <string name="diametro2">9</string>
     <string name="malattie2">Mushrooms and parasites</string>
-
-
-
 
     <string name="fioritura3">June-October</string>
     <string name="colore3">velvety redscarlatto</string>
