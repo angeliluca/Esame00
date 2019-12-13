@@ -41,12 +41,11 @@ The most romantic of the many legends about it says that it takes its name from 
     <string name="diametro1">10</string>
     <string name="malattie1">Mushrooms and parasites</string>
 
-    <string name="fioritura2">da maggio a settembre</string>
-    <string name="colore2">Giallo vivace</string>
-    <string name="forma2">Fiori grandi composti dal calice composto da 5 sepali e dalla corolla con 5 petali e stami
- </string>
-    <string name="profumo2">thè</string>
-    <string name="area2"> Riesce a resistere sia ad alte che a basse temperature </string>
+    <string name="fioritura2">May to September</string>
+    <string name="colore2">Bright yellow</string>
+    <string name="forma2">Large flowers consisting of the chalice consisting of 5 sepals and the corolla with 5 petals and stamas </string>
+    <string name="profumo2">tea</string>
+    <string name="area2"> Can withstand both high and low temperatures </string>
     <string name="altezza2">200</string>
     <string name="diametro2">9</string>
     <string name="malattie2">Funghi e parassiti</string>
