@@ -48,26 +48,28 @@ The most romantic of the many legends about it says that it takes its name from 
     <string name="area2"> Can withstand both high and low temperatures </string>
     <string name="altezza2">200</string>
     <string name="diametro2">9</string>
-    <string name="malattie2">Funghi e parassiti</string>
+    <string name="malattie2">Mushrooms and parasites</string>
 
 
-    <string name="info">For more information</string>
 
-    <string name="fioritura3">giugno-ottobre</string>
-    <string name="colore3">rossoscarlatto vellutato</string>
-    <string name="forma3">fiore doppio con 15-30 petali</string>
-    <string name="profumo3">intenso</string>
-    <string name="area3">sopravvive tra i -10 e i 37 gradi, nel nord e negli Appennini</string>
+
+    <string name="fioritura3">June-October</string>
+    <string name="colore3">velvety redscarlatto</string>
+    <string name="forma3">Double flower with 15/30 petals</string>
+    <string name="profumo3">intense</string>
+    <string name="area3">survives between -10 and 37 degrees, in the north and in the Apennines</string>
     <string name="altezza3">100</string>
     <string name="diametro3">12</string>
-    <string name="malattie3">acari e afidi</string>
+    <string name="malattie3">mites and afidi</string>
 
-    <string name="fioritura4">Unique et tardive</string>
-    <string name="colore4">Rose pastel</string>
-    <string name="forma4">Les fleurs s ouvrent en coupes </string>
-    <string name="profumo4">Enivrant et doux </string>
-    <string name="area4">Toute</string>
-    <string name="altezza4">120</string>
-    <string name="diametro4">10</string>
-    <string name="malattie4">Champignons et parasites</string>
+    <string name="fioritura4">unique summer</string>
+    <string name="colore4">Varied</string>
+    <string name="forma4">Double semi with 22/34 petals </string>
+    <string name="profumo4">great </string>
+    <string name="area4">4/8 cold zones</string>
+    <string name="altezza4">90</string>
+    <string name="diametro4">90</string>
+    <string name="malattie4">oidio</string>
+
+    <string name="info">For more information</string>
 </resources>

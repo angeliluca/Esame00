@@ -64,13 +64,13 @@ Die romantischste der vielen Legenden besagt, dass sie ihren Namen von "Fair Ros
 
 
 
-    <string name="fioritura4">Unique et tardive</string>
-    <string name="colore4">Rose pastel</string>
-    <string name="forma4">Les fleurs s ouvrent en coupes </string>
-    <string name="profumo4">Enivrant et doux </string>
-    <string name="area4">Toute</string>
-    <string name="altezza4">120</string>
-    <string name="diametro4">10</string>
-    <string name="malattie4">Champignons et parasites</string>
+    <string name="fioritura4">einzigartiger Sommer</string>
+    <string name="colore4">Abwechslungsreiche</string>
+    <string name="forma4">Doppel Halb mit 22/34 Blütenblättern </string>
+    <string name="profumo4">Großartig </string>
+    <string name="area4">4/8 Kaltzonen</string>
+    <string name="altezza4">90</string>
+    <string name="diametro4">90</string>
+    <string name="malattie4">oidio</string>
 
 </resources>
