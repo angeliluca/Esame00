@@ -65,5 +65,13 @@ La più romantica delle numerose leggende su di essa dice che prende il nome da 
     <string name="diametro3">12</string>
     <string name="malattie3">acari e afidi</string>
 
+    <string name="fioritura4">Unique et tardive</string>
+    <string name="colore4">Rose pastel</string>
+    <string name="forma4">Les fleurs s ouvrent en coupes </string>
+    <string name="profumo4">Enivrant et doux </string>
+    <string name="area4">Toute</string>
+    <string name="altezza4">120</string>
+    <string name="diametro4">10</string>
+    <string name="malattie4">Champignons et parasites</string>
 </resources>
 

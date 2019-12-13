@@ -41,27 +41,34 @@
     <string name="diametro1">10</string>
     <string name="malattie1">Champignons et parasites</string>
 
-    <string name="fioritura2">da maggio a settembre</string>
-    <string name="colore2">Giallo vivace</string>
-    <string name="forma2">Fiori grandi composti dal calice composto da 5 sepali e dalla corolla con 5 petali e stami
+    <string name="fioritura2">de mai à septembre</string>
+    <string name="colore2">Jaune vif</string>
+    <string name="forma2">Grandes fleurs composées d un calice composé de 5 sépales et d une corolle à 5 pétales et étamines
  </string>
     <string name="profumo2">thè</string>
-    <string name="area2"> Riesce a resistere sia ad alte che a basse temperature </string>
+    <string name="area2"> Peut résister à des températures élevées et basses  </string>
     <string name="altezza2">200</string>
     <string name="diametro2">9</string>
-    <string name="malattie2">Funghi e parassiti</string>
+    <string name="malattie2">Champignons et parasites</string>
 
     <string name="info">Pour plus d informations</string>
 
-    <string name="fioritura3">giugno-ottobre</string>
-    <string name="colore3">rossoscarlatto vellutato</string>
-    <string name="forma3">fiore doppio con 15-30 petali</string>
-    <string name="profumo3">intenso</string>
-    <string name="area3">sopravvive tra i -10 e i 37 gradi, nel nord e negli Appennini</string>
+    <string name="fioritura3">juin - octobre</string>
+    <string name="colore3">velouté rouge</string>
+    <string name="forma3">fleur double avec 15-30 pétales</string>
+    <string name="profumo3">intense</string>
+    <string name="area3">la rose survit entre -10 et 37 degrés, dans le nord et dans les Apenninsnnini</string>
     <string name="altezza3">100</string>
     <string name="diametro3">12</string>
-    <string name="malattie3">acari e afidi</string>
+    <string name="malattie3">acariens et pucerons</string>
 
-
+    <string name="fioritura4">Unique et tardive</string>
+    <string name="colore4">Rose pastel</string>
+    <string name="forma4">Les fleurs s ouvrent en coupes </string>
+    <string name="profumo4">Enivrant et doux </string>
+    <string name="area4">Toute</string>
+    <string name="altezza4">120</string>
+    <string name="diametro4">10</string>
+    <string name="malattie4">Champignons et parasites</string>
 
 </resources>
