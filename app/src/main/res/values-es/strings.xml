@@ -21,44 +21,43 @@
     <string name="descrizione4">Esta rosa muy antigua es una mutación de R. gallica officinalis. Es probablemente la más antigua de las rosas abigarradas. Las flores son de color rojo claro y blanco, veteadas de diferentes maneras. Esta planta no se desarrolla particularmente, tiene un hábito ligeramente erecto y compacto que cambia, arqueándose, cuando la floración está en su máximo crecimiento y está cubierta de hojas de color verde claro que se desvanecen a gris. No es muy espinoso, pero las ramas, ramitas y pedúnculos están cubiertos por un denso tejido de cerdas.
 La más romántica de las muchas leyendas al respecto dice que toma su nombre de "Fair Rosamund", el amante de Enrique II.</string>
 
-    <string name="fioritura">PERIODO DI FIORITURA:</string>
-    <string name="colore">COLORE</string>
+    <string name="fioritura">PERÍODO DE FLORACIÓN:</string>
+    <string name="colore">COLOR</string>
     <string name="forma">FORMA</string>
-    <string name="profumo">PROFUMO</string>
-    <string name="area">AREA CLIMATICA</string>
-    <string name="altezza">ALTEZZA</string>
-    <string name="diametro">DIAMETRO</string>
-    <string name="malattie">MALATTIE</string>
+    <string name="profumo">PERFUME</string>
+    <string name="area">ÁREA CLIMÁTICA</string>
+    <string name="altezza">ALTURA</string>
+    <string name="diametro">DIÁMETRO</string>
+    <string name="malattie">ENFERMEDADES</string>
 
 
-    <string name="fioritura1">Unica e Tardiva</string>
-    <string name="colore1">Rosa pastello</string>
-    <string name="forma1">Globulosa, i fiori si aprono a coppa profonda </string>
-    <string name="profumo1">Inebriante e dolce </string>
-    <string name="area1">Tutte</string>
+    <string name="fioritura1">Único y Tardío</string>
+    <string name="colore1">Rosa pastel</string>
+    <string name="forma1">Globulosa, las flores se abren en una copa profunda </string>
+    <string name="profumo1">Intoxicante y dulce</string>
+    <string name="area1">Todos</string>
     <string name="altezza1">120</string>
     <string name="diametro1">10</string>
-    <string name="malattie1">Funghi e parassiti</string>
+    <string name="malattie1">Hongos y parásitos</string>
 
-    <string name="fioritura2">da maggio a settembre</string>
-    <string name="colore2">Giallo vivace</string>
-    <string name="forma2">Fiori grandi composti dal calice composto da 5 sepali e dalla corolla con 5 petali e stami
- </string>
-    <string name="profumo2">thè</string>
-    <string name="area2"> Riesce a resistere sia ad alte che a basse temperature </string>
+    <string name="fioritura2">de mayo a septiembre</string>
+    <string name="colore2">Amarillo brillante</string>
+    <string name="forma2">Flores grandes compuestas por un cáliz compuesto por 5 sépalos y una corola con 5 pétalos y estambres</string>
+    <string name="profumo2">té</string>
+    <string name="area2"> Puede soportar altas y bajas temperaturas </string>
     <string name="altezza2">200</string>
     <string name="diametro2">9</string>
-    <string name="malattie2">Funghi e parassiti</string>
+    <string name="malattie2">Hongos y parásitos</string>
 
 
-    <string name="info">Per maggiori informazioni</string>
+    <string name="info">Para más información</string>
 
-    <string name="fioritura3">giugno-ottobre</string>
-    <string name="colore3">rossoscarlatto vellutato</string>
-    <string name="forma3">fiore doppio con 15-30 petali</string>
+    <string name="fioritura3">Junio ​​a octubre</string>
+    <string name="colore3">rojo escarlata aterciopelado</string>
+    <string name="forma3">flor doble con 15-30 pétalos</string>
     <string name="profumo3">intenso</string>
-    <string name="area3">sopravvive tra i -10 e i 37 gradi, nel nord e negli Appennini</string>
+    <string name="area3">intensosopravive entre -10 y 37 grados, en el norte y en los Apeninos</string>
     <string name="altezza3">100</string>
     <string name="diametro3">12</string>
-    <string name="malattie3">acari e afidi</string>
+    <string name="malattie3">ácaros y pulgones</string>
 </resources>
