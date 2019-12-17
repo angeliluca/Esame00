@@ -38,7 +38,8 @@
             android:layout_width="50dp"
             android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
-            android:background="@drawable/italianflag" />
+            android:background="@drawable/italianflag"
+            android:onClick="setIt"/>
 
         <Button
             android:id="@+id/english_flag"
@@ -46,27 +47,27 @@
             android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
             android:background="@drawable/englishflag"
-            android:onClick="visita"/>
+            android:onClick="setEn"/>
 
         <Button
             android:layout_width="50dp"
             android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
             android:background="@drawable/frenchflag"
-            android:onClick="visita"/>
+            android:onClick="setFra"/>
         <Button
             android:layout_width="50dp"
             android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
             android:background="@drawable/germanyflag"
-            android:onClick="visita"/>
+            android:onClick="setGer"/>
 
         <Button
             android:layout_width="50dp"
             android:layout_height="30dp"
             android:layout_marginTop="@android:dimen/app_icon_size"
             android:background="@drawable/spainflag"
-            android:onClick="visita"/>
+            android:onClick="setSpa"/>
     </LinearLayout>
     <Button
         android:id="@+id/start"
