@@ -69,4 +69,7 @@ La más romántica de las muchas leyendas al respecto dice que toma su nombre de
     <string name="altezza4">90</string>
     <string name="diametro4">90</string>
     <string name="malattie4">oidio</string>
+
+
+    <string name="call">Chiamaci</string>
 </resources>

@@ -73,5 +73,7 @@ La più romantica delle numerose leggende su di essa dice che prende il nome da 
     <string name="altezza4">90</string>
     <string name="diametro4">90</string>
     <string name="malattie4">oidio</string>
+
+    <string name="call">Chiamaci</string>
 </resources>
 
