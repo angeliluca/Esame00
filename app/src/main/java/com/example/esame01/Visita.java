@@ -17,7 +17,6 @@ public class Visita extends AppCompatActivity {
         setContentView(R.layout.activity_visita);
     }
 
-
     /*
     *   TecOrVis è una variabile statica condivisa tra le varie classi del progetto.
     *   Viene settata ad 1 se è stato selezionato tecnico, 0 se è stato selezionato visitatore.
@@ -27,12 +26,12 @@ public class Visita extends AppCompatActivity {
 
     public void open_mappa_vis(View view) {
         tecOrVis = 0;
-        Intent intent = new Intent(this,mappa.class);
+        Intent intent = new Intent(this,Mappa.class);
         startActivity(intent);
     }
     public void open_mappa_tec(View view) {
         tecOrVis = 1;
-        Intent intent = new Intent(this,mappa.class);
+        Intent intent = new Intent(this,Mappa.class);
         startActivity(intent);
     }
 }

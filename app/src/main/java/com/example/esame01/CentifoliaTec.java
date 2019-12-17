@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class centifoliaTec extends AppCompatActivity {
+public class CentifoliaTec extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

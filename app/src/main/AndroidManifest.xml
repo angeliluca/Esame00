@@ -15,10 +15,10 @@
         <activity android:name=".VersicolorTec"></activity>
         <activity android:name=".LincolnTec" />
         <activity android:name=".TeaTec" />
-        <activity android:name=".centifoliaTec" />
-        <activity android:name=".mappa" />
-        <activity android:name=".tea" />
-        <activity android:name=".centifolia" />
+        <activity android:name=".CentifoliaTec" />
+        <activity android:name=".Mappa" />
+        <activity android:name=".Tea" />
+        <activity android:name=".Centifolia" />
         <activity android:name=".Lincoln" />
         <activity android:name=".Versicolor" />
         <activity android:name=".Exit" />

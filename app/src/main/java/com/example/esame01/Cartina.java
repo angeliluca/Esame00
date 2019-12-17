@@ -22,18 +22,18 @@ public class Cartina extends AppCompatActivity {
 
     public void open_centifolia(View view) {
         if(Visita.tecOrVis == 0) {
-            Intent intent = new Intent(this, centifolia.class);
+            Intent intent = new Intent(this, Centifolia.class);
             startActivity(intent);
         }
         else {
-            Intent intent = new Intent(this, centifoliaTec.class);
+            Intent intent = new Intent(this, CentifoliaTec.class);
             startActivity(intent);
         }
     }
 
     public void open_tea(View view) {
         if(Visita.tecOrVis == 0) {
-            Intent intent = new Intent(this, tea.class);
+            Intent intent = new Intent(this, Tea.class);
             startActivity(intent);
         }
         else {
