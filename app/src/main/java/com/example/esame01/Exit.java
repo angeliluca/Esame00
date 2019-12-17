@@ -17,7 +17,7 @@ public class Exit extends AppCompatActivity {
         setContentView(R.layout.activity_exit);
     }
     public void open_Phone(View view) {
-        Intent intent = new Intent(ACTION_VIEW, Uri.parse("tel:0546 22932 "));
+        Intent intent = new Intent(ACTION_VIEW, Uri.parse("tel:0546 22932"));
         startActivity(intent);
     }
 
