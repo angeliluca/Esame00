@@ -69,4 +69,6 @@ The most romantic of the many legends about it says that it takes its name from 
 
     <string name="info">For more information</string>
     <string name="call">Chiamaci</string>
+    <string name="credit">Created by: Angeli Luca, Gamberini Giulia, Raimondi Ilaria, Tarozzi Alessia</string>
+    <string name="where">Ingegneria Elettronica e Telecomunicazioni - Università degli studi di Bologna - Laboratorio di Software per le telecomunicaioni</string>
 </resources>
