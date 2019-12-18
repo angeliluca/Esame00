@@ -9,24 +9,21 @@
     android:layout_height="match_parent"
     >
 
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/uscita"
         android:layout_gravity="center_horizontal"
         android:textStyle="bold"
-        android:textSize="5mm"
+        android:textSize="25dp"
         android:textColor="@color/colorAccent"
         android:layout_marginTop="4mm"/>
-
-
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/uscita2"
-        android:textSize="5mm"
+        android:textSize="25dp"
         android:textStyle="bold"
         android:layout_gravity="center_horizontal"
         android:textColor="@color/colorAccent"/>
@@ -65,7 +62,7 @@
         android:layout_marginTop="20dp"
         android:text="@string/credit"
         android:textColor="@color/black"
-        android:layout_gravity="center_horizontal"
+        android:layout_gravity="bottom|center"
         android:textSize="10dp"/>
 
     <TextView
@@ -74,13 +71,10 @@
         android:layout_marginTop="20dp"
         android:text="@string/where"
         android:textColor="@color/black"
-        android:layout_gravity="center_horizontal"
+        android:layout_gravity="bottom|center"
         android:textSize="10dp"
         android:layout_marginRight="5dp"
         android:layout_marginLeft="5dp"/>
-
-
-
 
 
 </LinearLayout>
