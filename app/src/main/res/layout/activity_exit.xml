@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+
 <ScrollView android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:android="http://schemas.android.com/apk/res/android">
@@ -31,24 +33,21 @@
         android:layout_gravity="center_horizontal"
         android:textColor="@color/colorAccent"/>
 
-    <ImageView
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/smile"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="5mm"/>
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:text="@string/info"
         android:textSize="18sp" />
     <TextView
         android:id="@+id/imageUrl"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
         android:layout_marginTop="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
         android:text="https://www.persolinostrocchi.edu.it/risorse-e-attrezzature/roseto/"
         android:autoLink="web"/>
 
@@ -62,7 +61,23 @@
         android:textColor="@color/colorAccent"
         android:onClick="open_Phone"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/credit"
+        android:textColor="@color/black"
+        android:layout_gravity="center_horizontal"
+        android:textSize="10dp"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/where"
+        android:textColor="@color/black"
+        android:layout_gravity="center_horizontal"
+        android:textSize="10dp"/>
 
 
 
