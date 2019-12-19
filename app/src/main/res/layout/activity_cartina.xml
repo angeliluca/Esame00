@@ -28,7 +28,7 @@
         android:layout_height="85dp"
         android:layout_gravity="center_horizontal"
         android:background="@drawable/rosacentifolia"
-        android:text="ROSA CENTIFOLIA"
+        android:text="@string/rosa1"
         android:textColor="@color/white"
         android:onClick="open_centifolia"
         android:layout_marginTop="20dp"/>
@@ -40,7 +40,7 @@
         android:layout_height="85dp"
         android:layout_gravity="center_horizontal"
         android:background="@drawable/rosatea"
-        android:text="ROSA TEA"
+        android:text="@string/rosa2"
         android:textColor="@color/cadetblue"
         android:onClick="open_tea"
         android:layout_marginTop="20dp"/>
@@ -52,7 +52,7 @@
         android:layout_height="85dp"
         android:layout_gravity="center_horizontal"
         android:background="@drawable/rosalincoln"
-        android:text="ROSA MISTER LINCOLN"
+        android:text="@string/rosa3"
         android:textColor="@color/black"
         android:onClick="open_lincoln"
         android:layout_marginTop="20dp"/>
@@ -64,7 +64,7 @@
         android:layout_height="85dp"
         android:layout_gravity="center_horizontal"
         android:background="@drawable/gallica"
-        android:text="ROSA GALLICA VERSICOLOR"
+        android:text="@string/rosa4"
         android:textColor="@color/white"
         android:onClick="open_versicolor"
         android:layout_marginTop="20dp"/>
